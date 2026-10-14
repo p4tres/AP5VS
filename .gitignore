@@ -1,0 +1,6 @@
+﻿build/
+.gradle/
+test_report.html
+.idea/
+.vscode/
+*.class
