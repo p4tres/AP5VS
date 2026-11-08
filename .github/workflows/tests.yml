@@ -19,6 +19,8 @@ jobs:
             config: https://gitlab.com/ap5vs/test-config/telnet-client-config/-/raw/main/test-config-2.yaml?ref_type=heads
           - uloha: telnet-server
             config: https://gitlab.com/ap5vs/test-config/telnet-server-config/-/raw/main/test-config-3.yaml?ref_type=heads
+          - uloha: im-server
+            config: https://gitlab.com/ap5vs/test-config/im-server-config/-/raw/main/test-config-4.yaml?ref_type=heads
 
     defaults:
       run:
